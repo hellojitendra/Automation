@@ -1,0 +1,56 @@
+﻿[
+  {
+    "slug": "about-us",
+    "post_type": "page",
+    "focus_keyphrase": "about eStudy 247",
+    "synonyms": "about us, company information, who we are, about estudy",
+    "breadcrumb_title": "About eStudy 247",
+    "seo_title": "About eStudy 247 — Online Courses & Learning Platform",
+    "meta_description": "Learn about eStudy 247: our mission, instructors, and the online courses we offer to help learners grow their skills."
+  },
+  {
+    "slug": "seo-basics-for-beginners",
+    "post_type": "post",
+    "focus_keyphrase": "seo basics",
+    "synonyms": "seo for beginners, search engine optimization basics, on-page seo, seo tips",
+    "breadcrumb_title": "SEO Basics",
+    "seo_title": "SEO Basics for Beginners — Improve Your Search Rankings",
+    "meta_description": "A practical guide to SEO basics: keyword research, on-page optimization, meta tags, and quick tips to improve your search rankings."
+  },
+  {
+    "slug": "blockchain",
+    "post_type": "sfwd-courses",
+    "focus_keyphrase": "blockchain course for beginners",
+    "synonyms": "learn blockchain online, blockchain tutorial, blockchain technology course, free blockchain course, blockchain training",
+    "breadcrumb_title": "Blockchain Course",
+    "seo_title": "Blockchain Course for Beginners – Free Online | eStudy 247",
+    "meta_description": "Learn blockchain technology from scratch with this free course. Covers blocks, chains, consensus, smart contracts, crypto, and real-world use cases."
+  },
+  {
+    "slug": "blockchain-introduction",
+    "post_type": "sfwd-lessons",
+    "focus_keyphrase": "what is blockchain",
+    "synonyms": "blockchain introduction, blockchain basics, blockchain overview, blockchain definition, blockchain technology explained",
+    "breadcrumb_title": "Blockchain Introduction",
+    "seo_title": "What is Blockchain – Introduction & Overview | eStudy 247",
+    "meta_description": "Discover what is blockchain, how it stores data in linked blocks, and why it is decentralized, immutable, and secure. A clear beginner introduction."
+  },
+  {
+    "slug": "javascript-crash-course",
+    "post_type": "sfwd-courses",
+    "focus_keyphrase": "javascript crash course",
+    "synonyms": "learn javascript, javascript course, js crash course, beginner javascript",
+    "breadcrumb_title": "JavaScript Crash Course",
+    "seo_title": "JavaScript Crash Course — Learn JS Quickly | eStudy 247",
+    "meta_description": "A hands-on JavaScript crash course for beginners covering fundamentals, DOM manipulation, and practical examples to build confidence."
+  },
+  {
+    "slug": "lesson-variables-and-types",
+    "post_type": "sfwd-lessons",
+    "focus_keyphrase": "javascript variables and types",
+    "synonyms": "js variables, data types javascript, variables in javascript",
+    "breadcrumb_title": "Variables & Types",
+    "seo_title": "JavaScript Variables & Types — Lesson | eStudy 247",
+    "meta_description": "Understand variables and data types in JavaScript, with examples and exercises suitable for beginners taking the JavaScript crash course."
+  }
+]
